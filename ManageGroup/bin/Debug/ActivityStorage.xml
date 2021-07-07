@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfActivity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Activity>
+    <ID>1</ID>
+    <NameActivity>Танцы на ТНТ</NameActivity>
+    <status>Проведено</status>
+    <TypeActivity>Конкурс</TypeActivity>
+    <DateStart>01.07.2021</DateStart>
+    <TimeStart>08:00</TimeStart>
+    <DateEnd>01.07.2021</DateEnd>
+    <TimeEnd>10:00</TimeEnd>
+    <Duration>2</Duration>
+  </Activity>
+  <Activity>
+    <ID>2</ID>
+    <NameActivity>Интервью каналу ТНТ</NameActivity>
+    <status>Отменено</status>
+    <TypeActivity>Интервью</TypeActivity>
+    <DateStart>05.07.2021</DateStart>
+    <TimeStart>10:30</TimeStart>
+    <DateEnd>05.07.2021</DateEnd>
+    <TimeEnd>11:30</TimeEnd>
+    <Duration>1</Duration>
+  </Activity>
+  <Activity>
+    <ID>3</ID>
+    <NameActivity>МК у Мигеля</NameActivity>
+    <status>Проведено</status>
+    <TypeActivity>Мастер_класс</TypeActivity>
+    <DateStart>06.07.2021</DateStart>
+    <TimeStart>09:00</TimeStart>
+    <DateEnd>06.07.2021</DateEnd>
+    <TimeEnd>11:00</TimeEnd>
+    <Duration>2</Duration>
+  </Activity>
+</ArrayOfActivity>
